@@ -1,13 +1,4 @@
-Absolutely — here is a professional, clean, human-written README.md specifically for your submission folder ds_Teerth_Purohit/.
-It follows real data science best practices:
-•	Setup instructions
-•	Folder structure
-•	Reproducibility
-•	Notes & assumptions
-•	How to run the notebook
-Copy-paste this into a file called README.md placed at the root of your project.
-________________________________________
-README.md
+
 📊 Data Science Submission — Trader Behavioral Analysis
 Author: Teerth Purohit
 Date: December 2025
